@@ -1,12 +1,12 @@
 # Team Name
 
-Project description (~1 paragraph)
+A web application for a landscaping business that allows customers
+to learn about landscaping services, request a quote, contact the
+company, and request or schedule services.
 
 ## Team Members and Roles
 
-* Member 1 (Role 1, Role 2)
-* Member 2 (Role 3, Role 4)
-* Member 3 (Role 5, Role 6)
+Mohamed Rayene Sassi
 
 ## Prerequisites
 
