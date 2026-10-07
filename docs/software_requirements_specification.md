@@ -4,8 +4,7 @@ This Software Requirements Specification describes the initial functional
 and non-functional requirements for LandscapingPro, a Landscaping Service
 Management System. The application will help customers explore services
 and request quotes, while helping the administrator prepare quotes and
-schedule appointments. This prototype SRS was prepared by Mohamed Rayene
-Sassi as an individual project approved by the professor.
+schedule appointments. 
 
 # Functional Requirements
 
