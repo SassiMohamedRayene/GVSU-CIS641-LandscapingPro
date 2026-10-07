@@ -39,4 +39,4 @@ Mohamed Rayene Sassi
 
 This is an individual CIS 641 project approved by the professor.
 
-[Personal Portfolio](https://SassiMohamedRayene.github.io/)
+[Personal Portfolio](https://sassimohamedrayene.github.io/SassiMohamedRayene/)
